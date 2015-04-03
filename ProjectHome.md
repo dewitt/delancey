@@ -1,0 +1,1 @@
+Source code for the Delancey bookmark manager, a del.icio.us extension.
